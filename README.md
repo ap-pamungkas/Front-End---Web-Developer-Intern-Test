@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 
 Username
+<br>
 testuser
 password
 password
