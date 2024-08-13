@@ -18,7 +18,7 @@ const App = () => {
     );
 };
 
-// Component to conditionally render Navbar based on current route
+
 const Main = () => {
     const location = useLocation();
     const isLoginPage = location.pathname === '/login';
