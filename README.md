@@ -11,5 +11,8 @@ Currently, two official plugins are available:
 Username
 <br>
 testuser
+<br>
+<br>
 password
+<br>
 password
